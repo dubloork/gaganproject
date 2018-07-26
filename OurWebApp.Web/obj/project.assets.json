@@ -12671,11 +12671,11 @@
       "hideWarningsAndErrors": true
     },
     "restore": {
-      "projectUniqueName": "C:\\Code\\AzureDeploy\\github\\OurWebApp.Web\\OurWebApp.Web.csproj",
+      "projectUniqueName": "C:\\Code\\AzureDeploy\\vsts_rough\\OurWebApp.Web\\OurWebApp.Web.csproj",
       "projectName": "OurWebApp.Web",
-      "projectPath": "C:\\Code\\AzureDeploy\\github\\OurWebApp.Web\\OurWebApp.Web.csproj",
+      "projectPath": "C:\\Code\\AzureDeploy\\vsts_rough\\OurWebApp.Web\\OurWebApp.Web.csproj",
       "packagesPath": "C:\\Users\\chris\\.nuget\\packages\\",
-      "outputPath": "C:\\Code\\AzureDeploy\\github\\OurWebApp.Web\\obj\\",
+      "outputPath": "C:\\Code\\AzureDeploy\\vsts_rough\\OurWebApp.Web\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
