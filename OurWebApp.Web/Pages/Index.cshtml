@@ -1,4 +1,5 @@
-﻿@page
+﻿@using OurWebApp.Dates;
+@page
 @model IndexModel
 @{
     ViewData["Title"] = "Home page";
@@ -18,12 +19,17 @@
         <div class="item active">
             <img src="~/images/banner1.svg" alt="ASP.NET" class="img-responsive" />
             <div class="carousel-caption" role="option">
-                <p>
-                    Learn how to build ASP.NET apps that can run anywhere.
-                    <a class="btn btn-default" href="https://go.microsoft.com/fwlink/?LinkID=525028&clcid=0x409">
-                        Learn More
-                    </a>
-                </p>
+                <ul>
+                    <li>
+                        Days since Independence Day: @DateManager.DaysSince(DateManager.AmericanIndependenceDay)
+                    </li>
+                    <li>
+                        Days since the Titanic sank: @DateManager.DaysSince(DateManager.TitanicSank)
+                    </li>
+                    <li>
+                        Days since the Battle of Hastings: @DateManager.DaysSince(DateManager.BattleOfHastings)
+                    </li>
+                </ul>
             </div>
         </div>
         <div class="item">

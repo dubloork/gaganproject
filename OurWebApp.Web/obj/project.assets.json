@@ -4746,6 +4746,16 @@
         "runtime": {
           "lib/netstandard1.3/Microsoft.WindowsAzure.Storage.dll": {}
         }
+      },
+      "OurWebApp.Dates/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v2.0",
+        "compile": {
+          "bin/placeholder/OurWebApp.Dates.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/OurWebApp.Dates.dll": {}
+        }
       }
     }
   },
@@ -12653,12 +12663,18 @@
         "windowsazure.storage.8.1.4.nupkg.sha512",
         "windowsazure.storage.nuspec"
       ]
+    },
+    "OurWebApp.Dates/1.0.0": {
+      "type": "project",
+      "path": "../OurWebApp.Dates/OurWebApp.Dates.csproj",
+      "msbuildProject": "../OurWebApp.Dates/OurWebApp.Dates.csproj"
     }
   },
   "projectFileDependencyGroups": {
     ".NETCoreApp,Version=v2.0": [
       "Microsoft.AspNetCore.All >= 2.0.8",
-      "Microsoft.NETCore.App >= 2.0.0"
+      "Microsoft.NETCore.App >= 2.0.0",
+      "OurWebApp.Dates >= 1.0.0"
     ]
   },
   "packageFolders": {
@@ -12671,11 +12687,11 @@
       "hideWarningsAndErrors": true
     },
     "restore": {
-      "projectUniqueName": "C:\\Code\\AzureDeploy\\vsts_rough\\OurWebApp.Web\\OurWebApp.Web.csproj",
+      "projectUniqueName": "C:\\Code\\AzureDeploy\\vsts\\OurWebApp.Web\\OurWebApp.Web.csproj",
       "projectName": "OurWebApp.Web",
-      "projectPath": "C:\\Code\\AzureDeploy\\vsts_rough\\OurWebApp.Web\\OurWebApp.Web.csproj",
+      "projectPath": "C:\\Code\\AzureDeploy\\vsts\\OurWebApp.Web\\OurWebApp.Web.csproj",
       "packagesPath": "C:\\Users\\chris\\.nuget\\packages\\",
-      "outputPath": "C:\\Code\\AzureDeploy\\vsts_rough\\OurWebApp.Web\\obj\\",
+      "outputPath": "C:\\Code\\AzureDeploy\\vsts\\OurWebApp.Web\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -12693,7 +12709,11 @@
       },
       "frameworks": {
         "netcoreapp2.0": {
-          "projectReferences": {}
+          "projectReferences": {
+            "C:\\Code\\AzureDeploy\\vsts\\OurWebApp.Dates\\OurWebApp.Dates.csproj": {
+              "projectPath": "C:\\Code\\AzureDeploy\\vsts\\OurWebApp.Dates\\OurWebApp.Dates.csproj"
+            }
+          }
         }
       },
       "warningProperties": {
