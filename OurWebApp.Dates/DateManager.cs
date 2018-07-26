@@ -7,7 +7,7 @@ namespace OurWebApp.Dates
     {
         public static DateTime AmericanIndependenceDay = DateTime.Parse("07/04/1776");
 
-        public static DateTime TitanicSank = DateTime.Parse("04/14/1912");
+        public static DateTime TitanicSank = DateTime.Parse("04/15/1912");
 
         public static DateTime BattleOfHastings = DateTime.Parse("10/14/1066");
 
