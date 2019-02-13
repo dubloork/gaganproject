@@ -11,3 +11,17 @@ C:\Code\AzureDeploy\vsts\OurWebApp.Web\obj\Debug\netcoreapp2.0\OurWebApp.Web.Ass
 C:\Code\AzureDeploy\vsts\OurWebApp.Web\obj\Debug\netcoreapp2.0\OurWebApp.Web.AssemblyInfo.cs
 C:\Code\AzureDeploy\vsts\OurWebApp.Web\obj\Debug\netcoreapp2.0\OurWebApp.Web.dll
 C:\Code\AzureDeploy\vsts\OurWebApp.Web\obj\Debug\netcoreapp2.0\OurWebApp.Web.pdb
+F:\Azure\Planning Microsoft Azure Solutions\microsoft-azure-deployment-requirements-specifying\03\demos\AzureDeploy\vsts\OurWebApp.Web\bin\Debug\netcoreapp2.0\OurWebApp.Web.deps.json
+F:\Azure\Planning Microsoft Azure Solutions\microsoft-azure-deployment-requirements-specifying\03\demos\AzureDeploy\vsts\OurWebApp.Web\bin\Debug\netcoreapp2.0\OurWebApp.Web.runtimeconfig.json
+F:\Azure\Planning Microsoft Azure Solutions\microsoft-azure-deployment-requirements-specifying\03\demos\AzureDeploy\vsts\OurWebApp.Web\bin\Debug\netcoreapp2.0\OurWebApp.Web.runtimeconfig.dev.json
+F:\Azure\Planning Microsoft Azure Solutions\microsoft-azure-deployment-requirements-specifying\03\demos\AzureDeploy\vsts\OurWebApp.Web\bin\Debug\netcoreapp2.0\OurWebApp.Web.dll
+F:\Azure\Planning Microsoft Azure Solutions\microsoft-azure-deployment-requirements-specifying\03\demos\AzureDeploy\vsts\OurWebApp.Web\bin\Debug\netcoreapp2.0\OurWebApp.Web.pdb
+F:\Azure\Planning Microsoft Azure Solutions\microsoft-azure-deployment-requirements-specifying\03\demos\AzureDeploy\vsts\OurWebApp.Web\bin\Debug\netcoreapp2.0\OurWebApp.Dates.dll
+F:\Azure\Planning Microsoft Azure Solutions\microsoft-azure-deployment-requirements-specifying\03\demos\AzureDeploy\vsts\OurWebApp.Web\bin\Debug\netcoreapp2.0\OurWebApp.Dates.pdb
+F:\Azure\Planning Microsoft Azure Solutions\microsoft-azure-deployment-requirements-specifying\03\demos\AzureDeploy\vsts\OurWebApp.Web\obj\Debug\netcoreapp2.0\OurWebApp.Web.csprojAssemblyReference.cache
+F:\Azure\Planning Microsoft Azure Solutions\microsoft-azure-deployment-requirements-specifying\03\demos\AzureDeploy\vsts\OurWebApp.Web\obj\Debug\netcoreapp2.0\OurWebApp.Web.csproj.CoreCompileInputs.cache
+F:\Azure\Planning Microsoft Azure Solutions\microsoft-azure-deployment-requirements-specifying\03\demos\AzureDeploy\vsts\OurWebApp.Web\obj\Debug\netcoreapp2.0\OurWebApp.Web.AssemblyInfoInputs.cache
+F:\Azure\Planning Microsoft Azure Solutions\microsoft-azure-deployment-requirements-specifying\03\demos\AzureDeploy\vsts\OurWebApp.Web\obj\Debug\netcoreapp2.0\OurWebApp.Web.AssemblyInfo.cs
+F:\Azure\Planning Microsoft Azure Solutions\microsoft-azure-deployment-requirements-specifying\03\demos\AzureDeploy\vsts\OurWebApp.Web\obj\Debug\netcoreapp2.0\OurWebApp.Web.csproj.CopyComplete
+F:\Azure\Planning Microsoft Azure Solutions\microsoft-azure-deployment-requirements-specifying\03\demos\AzureDeploy\vsts\OurWebApp.Web\obj\Debug\netcoreapp2.0\OurWebApp.Web.dll
+F:\Azure\Planning Microsoft Azure Solutions\microsoft-azure-deployment-requirements-specifying\03\demos\AzureDeploy\vsts\OurWebApp.Web\obj\Debug\netcoreapp2.0\OurWebApp.Web.pdb

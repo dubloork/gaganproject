@@ -7,3 +7,12 @@ C:\Code\AzureDeploy\vsts\OurWebApp.Dates\obj\Debug\netcoreapp2.0\OurWebApp.Dates
 C:\Code\AzureDeploy\vsts\OurWebApp.Dates\obj\Debug\netcoreapp2.0\OurWebApp.Dates.AssemblyInfo.cs
 C:\Code\AzureDeploy\vsts\OurWebApp.Dates\obj\Debug\netcoreapp2.0\OurWebApp.Dates.dll
 C:\Code\AzureDeploy\vsts\OurWebApp.Dates\obj\Debug\netcoreapp2.0\OurWebApp.Dates.pdb
+F:\Azure\Planning Microsoft Azure Solutions\microsoft-azure-deployment-requirements-specifying\03\demos\AzureDeploy\vsts\OurWebApp.Dates\bin\Debug\netcoreapp2.0\OurWebApp.Dates.deps.json
+F:\Azure\Planning Microsoft Azure Solutions\microsoft-azure-deployment-requirements-specifying\03\demos\AzureDeploy\vsts\OurWebApp.Dates\bin\Debug\netcoreapp2.0\OurWebApp.Dates.dll
+F:\Azure\Planning Microsoft Azure Solutions\microsoft-azure-deployment-requirements-specifying\03\demos\AzureDeploy\vsts\OurWebApp.Dates\bin\Debug\netcoreapp2.0\OurWebApp.Dates.pdb
+F:\Azure\Planning Microsoft Azure Solutions\microsoft-azure-deployment-requirements-specifying\03\demos\AzureDeploy\vsts\OurWebApp.Dates\obj\Debug\netcoreapp2.0\OurWebApp.Dates.csprojAssemblyReference.cache
+F:\Azure\Planning Microsoft Azure Solutions\microsoft-azure-deployment-requirements-specifying\03\demos\AzureDeploy\vsts\OurWebApp.Dates\obj\Debug\netcoreapp2.0\OurWebApp.Dates.csproj.CoreCompileInputs.cache
+F:\Azure\Planning Microsoft Azure Solutions\microsoft-azure-deployment-requirements-specifying\03\demos\AzureDeploy\vsts\OurWebApp.Dates\obj\Debug\netcoreapp2.0\OurWebApp.Dates.AssemblyInfoInputs.cache
+F:\Azure\Planning Microsoft Azure Solutions\microsoft-azure-deployment-requirements-specifying\03\demos\AzureDeploy\vsts\OurWebApp.Dates\obj\Debug\netcoreapp2.0\OurWebApp.Dates.AssemblyInfo.cs
+F:\Azure\Planning Microsoft Azure Solutions\microsoft-azure-deployment-requirements-specifying\03\demos\AzureDeploy\vsts\OurWebApp.Dates\obj\Debug\netcoreapp2.0\OurWebApp.Dates.dll
+F:\Azure\Planning Microsoft Azure Solutions\microsoft-azure-deployment-requirements-specifying\03\demos\AzureDeploy\vsts\OurWebApp.Dates\obj\Debug\netcoreapp2.0\OurWebApp.Dates.pdb
